@@ -104,7 +104,7 @@ This section outlines some of the key queries and functions applied during the a
 ## Visualizations
 
 ![Dashboard 1](https://github.com/Eliza776/DSA-Project-2/blob/main/Palmoria%20HR%20analysis.png)
-![Dashboard 2]
+![Dashboard 2](https://github.com/Eliza776/DSA-Project-2/blob/main/Palmoria%20HR%20analysis.png(2).png)
 
 
 
