@@ -17,6 +17,7 @@
 Palmoria Group HR Analysis               
 
 ## Project Overview
+A data-driven HR analysis for Palmoria Group to uncover inequality, salary gaps, and performance trends, with actionable insights for organizational equity and compliance.
 
 ## Data Source
 The dataset contains information scraped from Palmoria group pages.
@@ -77,8 +78,8 @@ EDA involved answering key questions about the dataset to uncover gender dispari
 This section outlines some of the key queries and functions applied during the analysis phase:
 
 - `IF` – to derive bonus amount based on employee rating
-- `AVERAGE` – to compute average salary by gender, and  average rating by gender
-- `COUNT` – for counting numbers of employees 
+- `AVERAGE` – to compute average salary by gender, and average rating by gender
+- `COUNT` – to count number of employees 
    
 
 ## My Analysis
@@ -113,6 +114,9 @@ This section outlines some of the key queries and functions applied during the a
 
   
 ## My Recommendation
-My key takeaways are ;
--The business should invest more in Electronics and Computer Accessories as they show the highest revenue potential.
-- High discounts (91–100%) are associated with higher ratings, the business should consider offering limited-time high discounts to boost product visibility and customer reviews especially for products generating less revenue.
+-A salary review should be done in Kaduna and Abuja, where non-compliance is most severe.
+-Gender distribution varies by region. Kaduna and Abuja may require to hire more females
+-Enable gender disclosure for the undisclosed with suggested  privacy protections for more accurate analysis.
+-A large portion of the workforce (over 50%) falls below the $90,000 threshold, fewer than 300 employees earn above $120,000 out of a total number of 946 employees. 
+
+
