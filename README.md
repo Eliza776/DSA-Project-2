@@ -103,8 +103,8 @@ This section outlines some of the key queries and functions applied during the a
   
 ## Visualizations
 
-
-
+![Dashboard 1](https://github.com/Eliza776/DSA-Project-2/blob/main/Palmoria%20HR%20analysis.png)
+![Dashboard 2]
 
 
 
@@ -114,9 +114,13 @@ This section outlines some of the key queries and functions applied during the a
 
   
 ## My Recommendation
--A salary review should be done in Kaduna and Abuja, where non-compliance is most severe.
--Gender distribution varies by region. Kaduna and Abuja may require to hire more females
--Enable gender disclosure for the undisclosed with suggested  privacy protections for more accurate analysis.
--A large portion of the workforce (over 50%) falls below the $90,000 threshold, fewer than 300 employees earn above $120,000 out of a total number of 946 employees. 
+
+ -A salary review should be done in Kaduna and Abuja, where non-compliance is most severe.
+
+ -Gender distribution varies by region. Kaduna and Abuja may require to hire more females
+
+ -Enable gender disclosure for the undisclosed with suggested  privacy protections for more accurate analysis.
+
+ -A large portion of the workforce (over 50%) falls below the $90,000 threshold, fewer than 300 employees earn above $120,000 out of a total number of 946 employees. 
 
 
