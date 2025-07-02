@@ -85,7 +85,7 @@ This section outlines some of the key queries and functions applied during the a
 ## My Analysis
  1. The gender balance is almost equal across the organization, but the undisclosed gender group still makes up over 4%, which may hinder exact figure in gender analysis
 
- 2. Lagos has a relatively balanced number.
+ 2. Lagos has a relatively balanced number of males and females.
 
  3. Kaduna has a higher number of males compared to females.
  
@@ -95,7 +95,7 @@ This section outlines some of the key queries and functions applied during the a
     
  6. Male and Female employees appear to earn nearly the same total salary value, which indicates pay equality.
   
- 7. The largest group of employees earns $70,000–$80,000, falling below the $90K compliance mark.
+ 7. The largest group of employees earns below the $90K compliance mark.
     
  8. Kaduna and Abuja are non-compliant to the salary regulation.
     
@@ -117,7 +117,7 @@ This section outlines some of the key queries and functions applied during the a
 
  -A salary review should be done in Kaduna and Abuja, where non-compliance is most severe.
 
- -Gender distribution varies by region. Kaduna and Abuja may require to hire more females
+ -Gender distribution varies by region, Kaduna and Abuja may require to hire more females.
 
  -Enable gender disclosure for the undisclosed with suggested  privacy protections for more accurate analysis.
 
