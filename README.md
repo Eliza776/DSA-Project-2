@@ -1,9 +1,4 @@
 # DSA-Project-2
-A data-driven HR analysis for Palmoria Group to uncover inequality, salary gaps, and performance trends, with actionable insights for organizational equity and compliance.
-# DSA-Project 1
-
-This is my first portfolio project, created as part of my learning journey at the Incubator Hub.  
-Through the Data Analysis track, I’ve gained practical experience using Microsoft Excel, SQL, and Power BI to explore and visualize real-world data.
 
 ## Table of Contents
 - [Project Topic](#project-topic)
@@ -14,6 +9,7 @@ Through the Data Analysis track, I’ve gained practical experience using Micros
 - [Explanatory Data Analysis](#explanatory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [My Analysis](#my-analysis)
+- [Visualization](visualization)
 - [My Recommendation](#my-recommendation)
   
 
