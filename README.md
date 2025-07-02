@@ -43,38 +43,33 @@ In the cleaning process, I began with a thorough check of the raw dataset to ide
 
 
 
-## Explanatory Data Analysis
-EDA involved answering key questions about the dataset to uncover gender disparities and compliance status . These questions included:
+##  Explanatory Data Analysis
 
- -Gender Distribution
+EDA involved answering key questions about the dataset to uncover gender disparities and compliance status. These questions included:
 
-    -Overall, by region, and by department
+- **Gender Distribution**
+  - Overall gender breakdown
+  - Gender distribution by region
+  - Gender distribution by department
 
--Performance Ratings by Gender
+- **Performance Ratings by Gender**
+  - Compare average performance ratings by gender
+  - Count of performance ratings across genders
 
-    -Compare average ratings and counts
+- **Salary Structure & Pay Gap**
+  - Average salary by gender
+  - Gender pay gap by department
+  - Gender pay gap by region
 
--Salary Structure & Pay Gap
+- **Salary Regulation Compliance**
+  - Number of employees earning below $90,000
+  - Salary distribution grouped in $10,000 increments
+  - Salary compliance breakdown by region
 
-    -Average salary by gender
-
-    -Gender pay gap by department and region
-
- -Salary Regulation Compliance
-
-    -Number of employees earning below $90,000
-
-     -Salary bands distribution ($10,000 increments)
-
-     -Breakdown by region
-
--Bonus Pay Allocation
-
-    -Individual employeee bonus
-
-    -Total payout per employee
-
-    -Total payouts by region and company-wide
+- **Bonus Pay Allocation**
+  - Bonus calculation per individual employee (based on rating)
+  - Total earnings (salary + bonus) per employee
+  - Total bonus payout by region and company-wide
 
 
 
@@ -87,11 +82,11 @@ This section outlines some of the key queries and functions applied during the a
    
 
 ## My Analysis
- 1.The gender balance is almost equal across the organization, but the undisclosed gender group still makes up over 4%, which may hinder exact figure in gender analysis
+ 1. The gender balance is almost equal across the organization, but the undisclosed gender group still makes up over 4%, which may hinder exact figure in gender analysis
 
  2. Lagos has a relatively balanced number.
 
- 3.Kaduna has a higher number of males compared to females.
+ 3. Kaduna has a higher number of males compared to females.
  
  4. Abuja also shows a higher number of  male employees.
     
@@ -118,7 +113,6 @@ This section outlines some of the key queries and functions applied during the a
 
   
 ## My Recommendation
-This project helped me develop practical skills in data cleaning, analysis, and visualization using Excel. I discovered how to interpret raw product data and convert it into meaningful business insights.  
 My key takeaways are ;
 -The business should invest more in Electronics and Computer Accessories as they show the highest revenue potential.
 - High discounts (91–100%) are associated with higher ratings, the business should consider offering limited-time high discounts to boost product visibility and customer reviews especially for products generating less revenue.
