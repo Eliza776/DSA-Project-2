@@ -101,7 +101,7 @@ This section outlines some of the key queries and functions applied during the a
     
  9. Kaduna has the highest number of employees earning below $90,000,followed by Abuja, and then Lagos with the least number.
   
-## Visualizations
+## Visualization
 
 ![Dashboard 1](https://github.com/Eliza776/DSA-Project-2/blob/main/Palmoria%20HR%20analysis.png)
 
